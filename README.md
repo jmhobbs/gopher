@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jmhobbs/gopher.svg?branch=master)](https://travis-ci.org/jmhobbs/gopher) [![codecov](https://codecov.io/gh/jmhobbs/gopher/branch/master/graph/badge.svg)](https://codecov.io/gh/jmhobbs/gopher) [![GoDoc](https://godoc.org/github.com/jmhobbs/gopher?status.svg)](https://godoc.org/github.com/jmhobbs/gopher)
+
 # Gopher Go
 
 This is a toy library for implementing gopher protocol servers in Go.
